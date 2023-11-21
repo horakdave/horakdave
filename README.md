@@ -15,6 +15,7 @@ learning software developement
 
 ## I work in/on:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-687676.svg?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
 
